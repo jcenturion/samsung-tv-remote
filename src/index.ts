@@ -8,6 +8,6 @@
  *  https://github.com/badisi/samsung-tv-remote
  */
 
-export type { SamsungTvRemoteOptions } from './options';
-export { SamsungTvRemote } from './remote';
-export { Keys } from './keys';
+export { Keys } from "./keys";
+export type { SamsungTvRemoteOptions } from "./options";
+export { SamsungTvRemote } from "./remote";
